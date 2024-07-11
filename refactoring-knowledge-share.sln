@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refactoring-knowledge-share", "refactoring-knowledge-share\refactoring-knowledge-share.csproj", "{DCED5C45-3A41-454E-86FE-C23EA08E1D3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloaters", "Bloaters\Bloaters.csproj", "{5E1D97C9-0B19-4FC5-B3EA-021F4A0983EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCED5C45-3A41-454E-86FE-C23EA08E1D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCED5C45-3A41-454E-86FE-C23EA08E1D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCED5C45-3A41-454E-86FE-C23EA08E1D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCED5C45-3A41-454E-86FE-C23EA08E1D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1D97C9-0B19-4FC5-B3EA-021F4A0983EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1D97C9-0B19-4FC5-B3EA-021F4A0983EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1D97C9-0B19-4FC5-B3EA-021F4A0983EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1D97C9-0B19-4FC5-B3EA-021F4A0983EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
